@@ -36,4 +36,20 @@ public class MyObject {
 	public void doSomething(int no, String msg, Car car1) {
 		System.out.println("무언가 작업중입니다!");
 	}
+	public void send() {
+		
+	}
+	public void send(int a) {
+		
+	}
+	public void send(String a) {
+		
+	}
+	public void send(Car car1) {
+		
+	}
+	public void send(boolean a) {
+		
+	}
+	
 }
