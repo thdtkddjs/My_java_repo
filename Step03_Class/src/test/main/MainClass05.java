@@ -15,8 +15,13 @@ public class MainClass05 {
 		
 		test.height= 12;
 		test.width = 15;
-		
 		test.showArea();
+		
+		Rect test2=new Rect();
+		
+		test2.height= 22;
+		test2.width = 55;
+		test2.showArea();
 		
 		
 	}
