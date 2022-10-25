@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author DIAMOND
+ *
+ */
+module Hello {
+}
