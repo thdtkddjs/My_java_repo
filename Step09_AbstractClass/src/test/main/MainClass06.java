@@ -1,5 +1,7 @@
 package test.main;
 
+import java.util.ArrayList;
+
 import test.mypac.Weapon;
 
 public class MainClass06 {
